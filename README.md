@@ -1,0 +1,2 @@
+# IBM-Final-Assignment-Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard-
+In Jupiter Notebook on my computer I did the task "Final Assignment Analyzing Historical Stock/Revenue Data and Building a Dashboard" I needed to analize historical share of Tesla and GameStop data and build a dashboard. I tried to do everything myself as much as possible, only a couple of times resorting to a cheat sheet.
